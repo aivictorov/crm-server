@@ -1,0 +1,67 @@
+{
+  "orders": [
+    {
+      "date": "07.03.2023",
+      "name": "Andrey",
+      "phone": "+7 (999) 111-22-33",
+      "email": "test@test.ru",
+      "product": "course-vue",
+      "status": "inwork",
+      "id": 1
+    },
+    {
+      "date": "07.03.2023",
+      "name": "Alexander",
+      "phone": "+7 (999) 444-55-66",
+      "email": "test@test.ru",
+      "product": "course-html",
+      "status": "new",
+      "id": 2
+    },
+    {
+      "date": "07.03.2023",
+      "name": "Andrey",
+      "phone": "+7 (999) 444-55-66",
+      "email": "test@test.ru",
+      "product": "course-js",
+      "status": "new",
+      "id": 3
+    },
+    {
+      "date": "07.03.2023",
+      "name": "Alexander",
+      "phone": "+7 (999) 777-88-00",
+      "email": "info@info.ru",
+      "product": "course-vue",
+      "status": "complete",
+      "id": 4
+    },
+    {
+      "date": "07.03.2023",
+      "name": "Alexander",
+      "phone": "+7 (999) 111-22-33",
+      "email": "test@test.ru",
+      "product": "course-html",
+      "status": "new",
+      "id": 5
+    },
+    {
+      "date": "07.03.2023",
+      "name": "Elizaveta",
+      "phone": "+7 (999) 111-22-33",
+      "email": "test@test.ru",
+      "product": "course-wordpress",
+      "status": "complete",
+      "id": 6
+    },
+    {
+      "date": "07.03.2023",
+      "name": "Andrey",
+      "phone": "+7 (999) 777-88-00",
+      "email": "test@test.ru",
+      "product": "course-html",
+      "status": "inwork",
+      "id": 7
+    }
+  ]
+}
